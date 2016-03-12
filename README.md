@@ -1,0 +1,7 @@
+# Baseball Stats
+
+Just an analysis of some data downloaded from Kaggle. The dataset is located [here](https://www.kaggle.com/kaggle/the-history-of-baseball).
+
+## Usage
+
+In order to use the ipython notebook on your own computer, you'll need to install the notebook. More information can be found [here](http://ipython.org/notebook.html).
